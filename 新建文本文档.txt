@@ -1,0 +1,4 @@
+instant=alloc();
+
+singleton=insant;
+constructor(insant);
